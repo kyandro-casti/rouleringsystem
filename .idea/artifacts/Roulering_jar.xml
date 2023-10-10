@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Roulering:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Roulering_jar</output-path>
+    <root id="archive" name="Roulering.jar">
+      <element id="module-output" name="Roulering" />
+    </root>
+  </artifact>
+</component>
